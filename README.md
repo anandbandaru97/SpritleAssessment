@@ -5,7 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 **Note (CodeSandbox): First run 'npm run build'
+
         Then 'npm install -g serve'
+        
         'serve -s build'
 
 In the project directory, you can run:
